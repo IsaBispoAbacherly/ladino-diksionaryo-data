@@ -15,7 +15,9 @@ versions:
       inglez: stool
       fransez: ''
       ebreo: ''
-      portugez: ''
+      portugez:
+      - tamborete
+      - banqueta
       kasteyano: taburete
       turko: tabure
 
